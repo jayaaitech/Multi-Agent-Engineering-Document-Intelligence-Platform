@@ -1,7 +1,3 @@
-"""
-RAG AI System - Main Entry Point
-Handles application lifecycle (Lifespan), Middleware, Routing, and Static Assets.
-"""
 
 import os
 import logging
